@@ -1,2 +1,1 @@
 BlankPlugin
-README
