@@ -1,1 +1,2 @@
 BlankPlugin
+README
